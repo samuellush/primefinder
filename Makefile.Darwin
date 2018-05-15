@@ -1,0 +1,6 @@
+CC = clang
+CXX = clang++
+CXXFLAGS += -stdlib=libc++
+
+OMP_CC = gcc
+
