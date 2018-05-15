@@ -1,7 +1,3 @@
-// CS 131: nth-prime in Go
-//
-// Names: Aman Raghuvanshi and Sam Lushtak
-//
 // Compile with:
 //
 // To compile (on Macs or Knuth)
