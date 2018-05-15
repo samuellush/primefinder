@@ -1,7 +1,3 @@
-// CS 131: nth-prime using Open MP
-//
-// Names: Aman Raghuvanshi and Sam Lushtak
-//
 // Compile with:
 //      make nth-prime-omp
 //
