@@ -1,7 +1,3 @@
-// CS 131: nth-prime in C
-//                   
-// Names:
-//
 // Compile with:
 //      make nth-prime
 //
